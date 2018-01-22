@@ -1,3 +1,9 @@
+################################git安装################################
+在Linux上安装Git：1、输入git,查看是否安装.2安装命令sudo apt-get install git
+在Windows上安装Git：默认安装选项，一直下一步.
+安装完成后，还需要最后一步设置，在命令行输入（用户设置）：
+ git config --global user.name "Your Name"
+ git config --global user.email "email@example.com"
 ###############################创建版本库##############################
 git init=初始化一个Git仓库
 git status=查看仓库当前状态
