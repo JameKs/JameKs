@@ -34,7 +34,11 @@ git rm 文件名=用于删除一个文件
 ###############################远程仓库#################################
 第1步：创建SSH Key：ssh-keygen -t rsa -C "youremail@example.com"
 第2步：登陆GitHub，打开“Account settings”，“SSH Keys”在Key文本框里粘贴id_rsa.pub文件的内容
-
+第3步：关联远程仓库git remote add origin git@github.com:username/respository_name.git
+      (取消关联远程仓库命令：git remote remove origin)
+第4步：向远程仓库推送文件git push -u origin master
+      (如果有冲突推送失败：先git pull origin master:如果项目不同后面需天 --allow-unrelated-histories)
+      (git push -f origin master.其中-f代表“强制承诺”用你的本地历史覆盖远程历史记录，使用时要小心)
 
 
 
