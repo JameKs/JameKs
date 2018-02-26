@@ -21,3 +21,10 @@ https://www.jianshu.com/p/dbc62a879081
 http://blog.csdn.net/niyuelin1990/article/details/77868574
 
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#build-tool-plugins-maven-packaging
+
+
+
+http://blog.csdn.net/u011913612/article/details/53482773
+http://blog.csdn.net/u011913612/article/category/6545891
+http://blog.csdn.net/u011913612/article/details/54342663
+https://www.cnblogs.com/wangguchangqing/p/5734998.html
