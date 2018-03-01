@@ -30,3 +30,11 @@ http://blog.csdn.net/u011913612/article/details/54342663
 https://www.cnblogs.com/wangguchangqing/p/5734998.html
 
 http://blog.csdn.net/ariesbryant/article/details/52240290
+雷霄骅
+http://blog.csdn.net/encoder1234/article/details/54582676 如何利用 AVDictionary 配置参数
+http://blog.csdn.net/flyfight88/article/details/8534536 ffmpeg实现RGB封装H264
+http://blog.csdn.net/u011913612/article/details/53688668 ffmpeg学习八：软件生成yuv420p视频并将其编码为H264格式
+http://blog.csdn.net/u011913612/article/category/6545891 阳光玻璃杯
+http://www.cnblogs.com/wangguchangqing/category/860702.html 返回主页 Brook@CV
+http://blog.csdn.net/pengliang528/article/details/53431738 ffmpeg转码过程分析
+http://blog.csdn.net/ariesbryant/article/details/52240290  使用FFmpeg实现的转码器
