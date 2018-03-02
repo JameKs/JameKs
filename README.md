@@ -41,3 +41,5 @@ http://blog.csdn.net/ariesbryant/article/details/52240290  使用FFmpeg实现的
 
 http://blog.csdn.net/wangxing1231/article/details/45062751  最简单的基于FFmpeg的内存读写的例子：内存转码器
 http://blog.csdn.net/leixiaohua1020/article/details/12980423 ffmpeg 从内存中读取数据（或将数据输出到内存）
+
+http://blog.csdn.net/yTaoSky/article/details/72820329  ffmpeg摄像头采集h264编码RTP发送
