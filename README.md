@@ -38,3 +38,5 @@ http://blog.csdn.net/u011913612/article/category/6545891 阳光玻璃杯
 http://www.cnblogs.com/wangguchangqing/category/860702.html 返回主页 Brook@CV
 http://blog.csdn.net/pengliang528/article/details/53431738 ffmpeg转码过程分析
 http://blog.csdn.net/ariesbryant/article/details/52240290  使用FFmpeg实现的转码器
+
+http://blog.csdn.net/wangxing1231/article/details/45062751  最简单的基于FFmpeg的内存读写的例子：内存转码器
