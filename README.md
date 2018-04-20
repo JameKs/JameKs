@@ -45,3 +45,4 @@ http://blog.csdn.net/leixiaohua1020/article/details/12980423 ffmpeg 从内存中
 http://blog.csdn.net/ytaosky/article/details/72785277  ffmpeg流媒体解码流程
 http://blog.csdn.net/yTaoSky/article/details/72820329  ffmpeg摄像头采集h264编码RTP发送
 http://blog.csdn.net/keepingstudying/article/details/41983611 利用FFmpeg将 IPCamera 的RTSP转码成RTMP发布在RED5
+https://blog.csdn.net/jeffasd/article/details/72466302
